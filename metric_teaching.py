@@ -11,7 +11,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.widgets import Slider
-from metric_functions import *
+from metric_functions import metricDict
 
 
 def update_canvas(x, y, annotation, value):
