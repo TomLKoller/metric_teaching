@@ -55,4 +55,5 @@ The required packages are:
 You can draw the reference annotation with _left click_ and the model output with _right click_. Press _ESC_ to clear all annotations. 
 With the slider, you can adapt the brush size. 
 
-
+## Extension
+If you want to add your own metrics add them to the "metricDict" in _metric_functions.py_
