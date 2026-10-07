@@ -37,9 +37,13 @@ You can either setup a Python enviroment yourself (Tested 3.9) or use conda/pip 
 	- On Windows: `.\env\Scripts\activate`
 	- On macOS/Linux: `source env/bin/activate`
 1. Install the required packages:
+```terminal
 pip install -r requirements.txt
+```
 1. Run the Python script:
+```terminal
 python metric_teaching.py
+```
 
 
 ### Self  Installation
