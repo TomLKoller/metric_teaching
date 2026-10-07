@@ -8,7 +8,7 @@ You can either setup a Python enviroment yourself (Tested 3.9) or use conda/pip 
 
 ### Installation (Conda)
 
-1. Download _metric_teaching.py_ and _environment.yml_
+1. Download _metric_teaching.py_, _metric_functions.py_ and _environment.yml_ or clone the repository
 1. Install Anaconda or Miniconda from: https://docs.conda.io/en/latest/miniconda.html
 1. Open a terminal/command prompt.
 1. Navigate to the directory where the Python file and _environment.yml_ are located.
@@ -24,7 +24,7 @@ You can either setup a Python enviroment yourself (Tested 3.9) or use conda/pip 
 	
 ### Installation (Pip)
 
-1. Download _metric_teaching.py_ and _requirements.txt_
+1. Download _metric_teaching.py_, _metric_functions.py_ and _requirements.txt_ or clone the repository
 1. Install Python from the official website: https://www.python.org/downloads/  (Tested with version 3.9)
 1. Install pip (if not included with the Python installation).
 1. Open a terminal/command prompt.
